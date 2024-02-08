@@ -45,12 +45,10 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="40" width="40"/>&nbsp;&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="40" width="40"/>&nbsp;&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="40" width="40"/>&nbsp;&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" height="40" width="40">&nbsp;&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" height="40" width="40">&nbsp;&nbsp;
+            <img src ="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" width="40">&nbsp;&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40" width="40">&nbsp;&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" height="40" width="40">&nbsp;&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" height="40" width="40">&nbsp;&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40">&nbsp;&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40">&nbsp;
         </div>
     </div>
     <hr/>
